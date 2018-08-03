@@ -1,0 +1,50 @@
+body, html {
+	height:100%;
+	margin: 0;
+}
+
+.bgImgDiv {
+    /* The image used */
+    background-image: url("away.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+	margin:0;
+	padding:15px;
+	color:white;
+	font-family:Archivo Black;
+	font-size: 3em;
+	background-color: rgba(0, 0, 0, 0.6);
+	text-align: center;
+}
+
+.mainContentArea{
+	
+	
+	
+}
+
+#todaysGoal{
+	color:white;
+	font-size: 1.5em;
+	text-align: center;
+	margin:;
+	width:;
+	padding:15px;
+	background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+#inspQuote{
+	color:white;
+	text-align:center;
+	font-style: italic;
+}
