@@ -66,10 +66,14 @@ button{
 }
 
 footer{
+	position:fixed;
+	left: 0;
+    bottom: 0;
 	background-color:black;
 	font-family:Courier New;
 	color:white;
 	padding-top:5px;
 	padding-left:10px;
 	padding-bottom: 15px;
+
 }
