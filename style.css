@@ -5,6 +5,7 @@ body, html {
 
 .bgImgDiv {
     /* The image used */
+    position:fixed;
     background-image: url("away.jpg");
 
     /* Full height */
