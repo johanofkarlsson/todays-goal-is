@@ -48,6 +48,7 @@ h1{
 	color:white;
 	text-align:center;
 	font-style: italic;
+	font-size:1.1em;
 	 text-shadow: 2px 2px #5c5c3d;
 }
 
@@ -72,6 +73,7 @@ footer{
 	background-color:black;
 	font-family:Courier New;
 	color:white;
+	margin-top:100px;
 	padding-top:5px;
 	padding-left:10px;
 	padding-bottom: 15px;
