@@ -5,7 +5,7 @@ body, html {
 
 .bgImgDiv {
     /* The image used */
-    position:fixed;
+   
     background-image: url("away.jpg");
 
     /* Full height */
@@ -68,13 +68,12 @@ button{
 }
 
 footer{
-	position:fixed;
-	left: 0;
-    bottom: 0;
+	
+	
 	background-color:black;
 	font-family:Courier New;
 	color:white;
-	margin-top:100px;
+	
 	padding-top:5px;
 	padding-left:10px;
 	padding-bottom: 15px;
