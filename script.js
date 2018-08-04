@@ -8,18 +8,32 @@ let goalsList = ["Tell someone something you love about them!",
 //A list of quotes that will randomize when the user refreshes the site
 let quotesList = [
 				'"If you fail to plan, you plan to fail" - Benjamin Franklin',
-				"Don't let yesterday take up too much of today",
-				"The best way to prepare for tomorrow is to do your best today"	
+				'"Don\'t let yesterday take up too much of today" - Will Rogers',
+				'"The best way to prepare for tomorrow is to do your best today"'	
 ]
 
+let setGoal =
+goalsList[Math.floor(Math.random()*goalsList.length)];
 
-function setGoal(){
-	document.getElementById("todaysGoal").innerHTML = goalsList[1];
-}
+document.getElementById("todaysGoal").innerHTML = setGoal;
 
-function setQuote(){
-	document.getElementById("inspQuote").innerHTML = quotesList[0];
-}
+let setQuote =
+quotesList[Math.floor(Math.random()*quotesList.length)];
 
-setGoal();
-setQuote();
+document.getElementById("inspQuote").innerHTML = setQuote;
+//function setGoal(){
+//	goalsList[Math.floor(Math.random()*goalsList.length)];
+
+//}
+
+//function setGoal(){
+//	document.getElementById("todaysGoal").innerHTML = goalsList[1];
+//}
+
+//function setQuote(){
+//	document.getElementById("inspQuote").innerHTML = quotesList[0];
+//}
+
+//setGoal();
+//document.getElementById("todaysGoal").innerHTML = setGoal;
+//setQuote();

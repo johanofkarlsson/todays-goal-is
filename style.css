@@ -35,8 +35,9 @@ h1{
 #todaysGoal{
 	color:white;
 	font-size: 1.5em;
+	
 	text-align: center;
-	margin:;
+	margin:auto;
 	width:;
 	padding:15px;
 	background-color: rgba(0, 0, 0, 0.6);
@@ -47,4 +48,18 @@ h1{
 	color:white;
 	text-align:center;
 	font-style: italic;
+	 text-shadow: 2px 2px #5c5c3d;
+}
+
+/*Following code styles and puts the botton in the center of the screen*/
+
+button{
+	background-color: #669900;
+	border:none;
+	padding: 15px 32px;
+  	margin:auto;
+  	display:block;
+  	color:white;
+  	font-family:Futura;
+  	font-size:1em;
 }
