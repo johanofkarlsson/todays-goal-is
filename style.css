@@ -64,3 +64,12 @@ button{
   	font-family:Futura;
   	font-size:1em;
 }
+
+footer{
+	background-color:black;
+	font-family:Courier New;
+	color:white;
+	padding-top:5px;
+	padding-left:10px;
+	padding-bottom: 15px;
+}
