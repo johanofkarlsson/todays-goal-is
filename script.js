@@ -11,7 +11,8 @@ let goalsList = [
 					"Read a book for at least five minutes today. If you liked what you read, schedule five minutes reading time for tomrrow.",
 					"Do at least one push-up, one squat and one sit-up today. Try to do two of each tomorrow.",
 					"Spend at least ten minutes today cleaning or organizing your living or working space.",
-					"Help someone today. It might be as simple as holding the door for someone or carry something for them."
+					"Help someone today. It might be as simple as holding the door for someone or carry something for them.",
+					"Make a list of five people who makes your life amazing. Text or call one of them and tell them that"
 
 ];
 
