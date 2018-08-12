@@ -23,7 +23,7 @@ let quotesList = [
 				'"The best preparation for tomorrow is doing your best today" - H. Jackson Brown, Jr',
 				'"To know thyself is the beginning of wisdom" - Socrates',
 				'"Let food be thy medicine and medicine be thy food" - Hippocrates',
-				'"An expert is a man who has med all the mistakes which can be made in a very narrow field" - Niels Bohr'	
+				'"An expert is a man who has made all the mistakes which can be made in a very narrow field" - Niels Bohr'	
 ]
 
 //En funktion som sätter ett nytt mål och ett nytt citat.
